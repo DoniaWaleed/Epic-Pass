@@ -23,7 +23,7 @@
 
 List of used libraries in the program:
 
-| Middleware                                                            | Description                                                                                                                            |
+| Library Name                                                          | Description                                                                                                                            |
 |:----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | [PyQt5](https://pypi.org/project/PyQt5/)                              | PyQt is a Python library for creating GUI applications using the Qt toolkit.                                                           |
 | [random](https://docs.python.org/3/library/random.html#module-random) | The Python Random module is a built-in module for generating random integers.                                                          |

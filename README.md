@@ -21,7 +21,7 @@
 * Since using Excel as my Password Manager is not that safe ,so please use the encrypted database in the latest release.
 
 ## 🔧 Installation
-* Don't forget to check the latest release to download the Program's Installer.
+* Don't forget to download the Program's Installer.    [Install Here](https://github.com/DoniaWaleed/Epic-Pass/releases/download/v2.3.0/Epic_Pass_Installer_Windows_Setup_V2.3.0.exe)
 
 ## 📖 Used Libraries
 
